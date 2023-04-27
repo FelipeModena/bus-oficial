@@ -1,10 +1,3 @@
-fesçlgfçlksdfçlsdkfsdçlfk sdf
-sdg[dsgksf]gp
-[ekh d
-fçhks dh]=
- e5ps hik5es]´h
- plsjeh[esrph jzd
- pho jzdh[rij# install dependencies
 # bus-oficial
 
 ## Build Setup
