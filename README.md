@@ -5,6 +5,12 @@ fçhks dh]=
  e5ps hik5es]´h
  plsjeh[esrph jzd
  pho jzdh[rij# install dependencies
+# bus-oficial
+
+## Build Setup
+
+```bash
+# install dependencies
 $ yarn install
 
 # serve with hot reload at localhost:3000
