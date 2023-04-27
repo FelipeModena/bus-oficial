@@ -1,9 +1,6 @@
 # bus-oficial
-asdapsd
-## Buil
 
-
-dsfdsffd Setup
+## Build Setup
 
 ```bash
 # install dependencies
