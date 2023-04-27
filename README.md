@@ -1,4 +1,4 @@
-public void mudanca(int i){
+public void mudancawddw(int i){
 
 print i
 
