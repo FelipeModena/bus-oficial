@@ -1,0 +1,400 @@
+[
+  {
+    "id": "0013",
+    "name": "Alto Alegre - Cerejeiras",
+    "busStops": 10,
+    "standardTime": {
+      "weekday": [
+        "05:30",
+        "06:10",
+        "06:50",
+        "07:30",
+        "08:10",
+        "08:50",
+        "09:30",
+        "10:10",
+        "10:50",
+        "11:30",
+        "12:10",
+        "12:50",
+        "13:30",
+        "14:10",
+        "14:50",
+        "15:30",
+        "16:10",
+        "16:50",
+        "17:30",
+        "18:10",
+        "18:50",
+        "19:30",
+        "20:50",
+        "22:10"
+      ],
+      "weekend": [
+        "05:30",
+        "06:50",
+        "08:10",
+        "09:30",
+        "10:50",
+        "12:10",
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "18:50",
+        "20:50",
+        "21:30"
+      ],
+      "holiday": [
+        "05:30",
+        "06:50",
+        "08:10",
+        "09:30",
+        "10:50",
+        "12:10",
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "18:50",
+        "20:50",
+        "21:30"
+      ]
+    },
+    "stops": [
+      {
+        "name": "Praça Cerejeiras/Aviador Gomes Ribeiro Qd. 13 Par",
+        "estimatedTime": "10:33",
+        "standardTime": "10:30"
+      },
+
+      {
+        "name": "Duque De Caxias Qd. 06 Impar",
+        "estimatedTime": "10:43",
+        "standardTime": "10:40"
+      },
+
+      {
+        "name": "Duque De Caxias Qd. 03 Impar",
+        "estimatedTime": "10:53",
+        "standardTime": "10:45"
+      },
+
+      {
+        "name": "Monsenhor Claro Qd-08 Impar",
+        "estimatedTime": "10:57",
+        "standardTime": "10:55"
+      },
+
+      {
+        "name": "Monsenhor Claro Qd-05 Impar",
+        "estimatedTime": "11:05",
+        "standardTime": "11:00"
+      },
+
+      {
+        "name": "Monsenhor Claro Qd-03 Impar",
+        "estimatedTime": "11:23",
+        "standardTime": "11:10"
+      },
+
+      {
+        "name": "Rodrigues Alves Qd. 04 Par",
+        "estimatedTime": "11:27",
+        "standardTime": "11:15"
+      },
+      {
+        "name": "Rodrigues Alves Qd. 09 Par",
+        "estimatedTime": "11:35",
+        "standardTime": "11:20"
+      },
+
+      {
+        "name": "Araújo Leite Qd. 13 Impar",
+        "estimatedTime": "11:44",
+        "standardTime": "11:25"
+      },
+
+      {
+        "name": "Araújo Leite Qd 11 Impar (Padaria Cidinha)",
+        "estimatedTime": "11:50",
+        "standardTime": "11:30"
+      },
+
+      {
+        "name": "Araújo Leite Qd. 07 Impar",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Araújo Leite Qd. 04 Impar",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Cel. Alves Seabra Qd. 01 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Cel. Alves Seabra Qd. 03 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Comendador Leite Qd. 06 Impar",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Alto Purus Qd. 05 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Alto Purus Qd. 07 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Alto Purus - Qd. 09 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Padre Nóbrega Qd. 13 Impar",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Alto Acre Qd. 10 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Alto Acre Qd. 12 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Alto Acre Qd. 16 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Hildebrando Carvalho Qd. 14 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Ismael Marinho Falcão Qd. 07 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Zephilo Grizoni Qd. 02 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Zephilo Grizoni Qd. 05 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Zephilo Grizoni Qd. 06 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Herminio Ramos Qd. 01 Impar",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Nelson Bonachela Gimenes Qd. 04 Impar",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Nelson Bonachela Gimenes Qd. 02 Impar",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Nelson Bonachela Gimenes Qd. 01 Impar",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      },
+
+      {
+        "name": "Alto Alegre/Felipe Pardo Qd. 01 Par",
+        "estimatedTime": "10:00",
+        "standardTime": "0:00"
+      }
+    ]
+  },
+  { "id": "0014", "name": "Redentor/ Carolina - Centro", "busStops": 10 },
+  { "id": "0019", "name": "UNESP/UNIP - Centro", "busStops": 10 },
+  { "id": "0020", "name": "V. São Paulo/Nova Bauru - Centro", "busStops": 10 },
+  {
+    "id": "0023",
+    "name": "Gerson França/Vania Maria - Cerejeiras",
+    "busStops": 10
+  },
+  { "id": "0030", "name": "Geisel / Sambódromo - Centro", "busStops": 10 },
+  { "id": "0031", "name": "Aeroporto - Centro", "busStops": 10 },
+  { "id": "0033", "name": "Gasparini - Centro", "busStops": 10 },
+  { "id": "0043", "name": "V. Garcia/Jd. TV - Centro", "busStops": 10 },
+  { "id": "0046", "name": "Mary Dota - Centro", "busStops": 10 },
+  { "id": "0075", "name": "Quinta Bela Olinda - Centro", "busStops": 10 },
+  { "id": "0077", "name": "Tangarás - Centro", "busStops": 10 },
+  { "id": "0078", "name": "Vargem Limpa - Centro", "busStops": 10 },
+  { "id": "0082", "name": "Nobuji Nagasawa - Centro", "busStops": 10 },
+  { "id": "0084", "name": "Distrito Industrial II - Centro", "busStops": 10 },
+  { "id": "0096", "name": "Tibiriçá - Centro", "busStops": 10 },
+  {
+    "id": "0098",
+    "name": "Santa Terezinha/Lauro de Souza Lima/Unimed - Centro",
+    "busStops": 10
+  },
+  { "id": "0101", "name": "Linha Noturna 1", "busStops": 10 },
+  { "id": "0499", "name": "Pq. das Nações - Praça do Líbano", "busStops": 10 },
+  { "id": "0518", "name": "V. Dutra/Marilu - Bauru Shopping", "busStops": 10 },
+  { "id": "0526", "name": "Pousada Esperança - Hospital Base", "busStops": 10 },
+  { "id": "0543", "name": "José Regino - Duque / Cerejeiras", "busStops": 10 },
+  { "id": "0564", "name": "Pq. Real - Boulevard/Guadalajara", "busStops": 10 },
+  { "id": "0587", "name": "Dutra - Unesp / Ipmet", "busStops": 10 },
+  {
+    "id": "0727",
+    "name": "III Américas / Nova Esperança - UNISAGRADO",
+    "busStops": 10
+  },
+  {
+    "id": "1011",
+    "name": "Nova Esperança/CAIC - V. Samaritana / Jd. Estoril",
+    "busStops": 10
+  },
+  {
+    "id": "1066",
+    "name": "Nova Esperança / CAIC - Pq. Vista Alegre / Pq. City",
+    "busStops": 10
+  },
+  {
+    "id": "1522",
+    "name": "Jd. América - V. Quággio/Jd. Progresso",
+    "busStops": 10
+  },
+  {
+    "id": "1644",
+    "name": "Paraíso/ Dutra - Villággio/ Jd. Europa",
+    "busStops": 10
+  },
+  {
+    "id": "1812",
+    "name": "Bauru Shopping / Jd. Planalto - V. Lemos / UPA Bela Vista",
+    "busStops": 10
+  },
+  { "id": "1949", "name": "UNESP/UNIP- Pq. Nações", "busStops": 10 },
+  { "id": "2117", "name": "Jd. Godoy - Jd. Terra Branca", "busStops": 10 },
+  { "id": "2629", "name": "Sta. Luzia/Flórida - Alto Paraíso", "busStops": 10 },
+  { "id": "3240", "name": "Unesp/CTI - Ouro Verde", "busStops": 10 },
+  { "id": "3288", "name": "UNESP/ Camélias - Falcão/ ITE", "busStops": 10 },
+  { "id": "3542", "name": "Octávio Rasi - Edson F Silva", "busStops": 10 },
+  {
+    "id": "3841",
+    "name": "Jd. Araruna/Perdizes - Jd. Gaivota/UPA Ipiranga",
+    "busStops": 10
+  },
+  {
+    "id": "3911",
+    "name": "Pq. Jaraguá - V. Samaritana/Jd. Estoril",
+    "busStops": 10
+  },
+  {
+    "id": "3934",
+    "name": "Pq. Jaraguá - Beija Flor/Jd. Silvestre",
+    "busStops": 10
+  },
+  { "id": "4015", "name": "Jd. Ouro Verde - Jd. América", "busStops": 10 },
+  {
+    "id": "4553",
+    "name": "Jd. Europa - Granja Ito/ Pq. Jaraguá",
+    "busStops": 10
+  },
+  { "id": "4811", "name": "Isaura P. Garms - Jd. Estoril", "busStops": 10 },
+  { "id": "4832", "name": "Isaura P. Garms - Unesp/ CTI", "busStops": 10 },
+  {
+    "id": "5144",
+    "name": "Santa Edwiges - Samambaia / Villaggio",
+    "busStops": 10
+  },
+  { "id": "5162", "name": "Santa Edwiges - Samambaia", "busStops": 10 },
+  { "id": "5232", "name": "Pousada da Esperança - Unesp", "busStops": 10 },
+  { "id": "5274", "name": "Pousada Esperança - Centreville", "busStops": 10 },
+  { "id": "5758", "name": "Santa Fé - Cidade Universitária", "busStops": 10 },
+  {
+    "id": "6011",
+    "name": "Pq. Sabiás - V. Samaritana/Jd. Estoril",
+    "busStops": 10
+  },
+  {
+    "id": "6072",
+    "name": "Pq. Sabiás / Joaquim Guilherme - Higienópolis / V. Antártica",
+    "busStops": 10
+  },
+  { "id": "6364", "name": "Rosa Branca - Tecnológica", "busStops": 10 },
+  {
+    "id": "6745",
+    "name": "Bosque da Saúde/Pq. Viaduto - Jd. Europa",
+    "busStops": 10
+  },
+  { "id": "6869", "name": "Jd. Ferraz - Pq. Julio Nóbrega", "busStops": 10 },
+  {
+    "id": "7180",
+    "name": "Roosevelt/ Distrito Industrial III - Distrito Industrial I",
+    "busStops": 10
+  },
+  {
+    "id": "7693",
+    "name": "Flamboyants / Jd. Contorno - Edson F. Silva",
+    "busStops": 10
+  },
+  {
+    "id": "8528",
+    "name": "Pq. Santa Cândida - UNISAGRADO / Clínicas",
+    "busStops": 10
+  },
+  {
+    "id": "8562",
+    "name": "Pq. Santa Cândida - Jd. Europa/Samambaia",
+    "busStops": 10
+  },
+  { "id": "9011", "name": "Mendonça/ Chapadão - Jd. Estoril", "busStops": 10 },
+  {
+    "id": "9411",
+    "name": "Jd. Marília - V. Samaritana / Jd. Estoril",
+    "busStops": 10
+  },
+  { "id": "9547", "name": "Andorfato/ Eldorado - Aeroclube", "busStops": 10 }
+]
