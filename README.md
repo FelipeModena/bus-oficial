@@ -1,4 +1,4 @@
-gfg# bus-oficial
+# bus-oficial
 
 ## Build Setup
 
